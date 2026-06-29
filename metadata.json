@@ -1,0 +1,6 @@
+{
+  "name": "Math Coordinate Plotter",
+  "description": "An interactive educational tool for plotting and learning 2D Cartesian coordinates with free-play plotting, custom linear equation graphing, multi-format exports (PNG, SVG, CSV, JSON), and step-by-step math solvers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
